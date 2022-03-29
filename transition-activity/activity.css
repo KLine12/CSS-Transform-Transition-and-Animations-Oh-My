@@ -1,6 +1,11 @@
-main {
+.container button {
 
-    
+    background-color: ghostwhite;
+    transition: 2s;
+}
+
+.container button:hover {
+background-color: cornflowerblue;
 
 }
 
